@@ -9,4 +9,5 @@ puts "MUNDO".downcase
 puts "Hola".length
 puts "Hola".reverse
 puts "Hola".include?("o")
+puts "hola".class
 
